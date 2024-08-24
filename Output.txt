@@ -1,0 +1,31 @@
+Maximum overs that the player can play is:  1
+Maximum balls that the baller can bowl is:   6
+Batting team players are
+-----------------------------------------------
+sjlfs
+fsjfs
+fsdklf
+adfjdf
+fjns
+dfnsdf
+dfjnsds
+nsddf
+dfna
+ddfdf
+sdfna
+Balling team polayers are
+--------------------------------------------------
+faf
+akfa
+fa
+faf
+afa
+fnsddf
+sadnfs
+dfsd
+fsdd
+f
+fd
+So now final result is
+Score earn by team1 are:   78
+Score earn by team2 are:   55

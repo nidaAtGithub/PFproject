@@ -1,0 +1,34 @@
+Total overs:	5
+Max Overs that a baller can play are:	1
+Max balls are:	6
+Name of the teams that are going to play
+sdfj
+ldf
+Players of team1 are
+-------------------------------------------
+0-sjlfs
+1-fsjfs
+2-fsdklf
+3-adfjdf
+4-fjns
+5-dfnsdf
+6-dfjnsds
+7-nsddf
+8-dfna
+9-ddfdf
+10-sdfna
+
+Players of team2 are:
+----------------------------------------
+0-faf
+1-akfa
+2-fa
+3-faf
+4-afa
+5-fnsddf
+6-sadnfs
+7-dfsd
+8-fsdd
+9-f
+10-fd
+
